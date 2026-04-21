@@ -9,4 +9,3 @@ def names():
     print(nombre.upper() + " " + apellido.upper())
     print('\t'+nombre.lower() + " " + apellido.lower())
 
-names()
